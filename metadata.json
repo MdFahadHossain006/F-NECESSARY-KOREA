@@ -1,0 +1,6 @@
+{
+  "name": "F - NECESSARY KOREA",
+  "description": "Your Essential Korean Websites in One App.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
