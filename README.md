@@ -1,4 +1,3 @@
-# 🇰🇷 F - NECESSARY KOREA
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00DBDE,50:7B2FF7,100:FC00FF&text=F%20-%20NECESSARY%20KOREA&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=YOUR%20ESSENTIAL%20KOREAN%20WEBSITES%20IN%20ONE%20APP&descAlignY=60&descSize=14&animation=fadeIn" width="100%" alt="F - Necessary Korea animated banner"/>
