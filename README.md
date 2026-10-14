@@ -179,48 +179,6 @@ Replace the repository URL above if your actual GitHub repository has a differen
 
 ---
 
-## 👨‍💻 Meet the Developer
-
-<p align="center">
-  <img src="https://i.postimg.cc/DZQ8Tmcc/Whats-App-Image-2026-09-119-at-1-26-32-AM.jpg" width="180" alt="MD. Fahad Hossain — Developer portrait" style="border-radius:50%;"/>
-</p>
-
-<h3 align="center">MD. FAHAD HOSSAIN 🇧🇩</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=800&color=7B2FF7&center=true&vCenter=true&width=600&lines=Software+Developer;Web+Developer;Cybersecurity+Enthusiast;Creator+of+F+-+NECESSARY+KOREA" alt="Animated developer introduction"/>
-</p>
-
-Hello everyone! 👋
-
-I am **MD. Fahad Hossain**, from Bangladesh.
-
-I am interested in software development, web development, programming, and cybersecurity. I created F - NECESSARY KOREA to help people access useful Korean websites through one convenient application.
-
-I enjoy building digital projects that make everyday tasks easier and exploring new ideas in technology.
-
-If you have feedback, suggestions, or ideas for improving this application, feel free to connect with me through my social profiles.
-
-**Thank you for visiting my project! 💐**
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.facebook.com/share/1D7ExweqoM/">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/mdfahadhossain006/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://youtube.com/@brightnessworld">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://github.com/MdFahadHossain006">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
 
 ## 🔒 Privacy & Website Compatibility
 
@@ -269,26 +227,73 @@ Please follow the project's license and contribution guidelines, if provided.
 
 ---
 
-## 📜 License
+<div align="center">
 
-No license has been specified in this README.
+## 👨‍💻 DEVELOPER
 
-Before publishing the project for reuse, choose an appropriate open-source license or explicitly state the applicable usage terms. Without a license, others generally do not receive permission to reuse, modify, or redistribute your code beyond rights provided by law.
+ **MD FAHAD HOSSAIN** 
+ <div align="center">
+   
+<img src="https://i.postimg.cc/DZQ8Tmcc/Whats-App-Image-2026-09-119-at-1-26-32-AM.jpg" width="190" style="border-radius:80%;">
+
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=800&color=7B2FF7&center=true&vCenter=true&width=600&lines=Software+Developer;Web+Developer;Cybersecurity+Enthusiast;Creator+of+F+-+NECESSARY+KOREA" alt="Animated developer introduction"/>
+</p>
+
+
+
+<div align="center">
+
+## DEVELOPER CONTRACT 
+
+<a href="https://www.facebook.com/share/1D7ExweqoM/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/mdfahadhossain006?igsh=ZzhhbzljaXVxcmFw">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://youtube.com/@brightnessworld?si=0pf1lSEkvWSLXASs">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="https://github.com/MdFahadHossain006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div> 
 
 ---
+</div> 
 
+### ⚠️ Copyright & License
+
+**© 2026 MD. FAHAD HOSSAIN. All Rights Reserved.**
+
+This project is **proprietary Website & Software**. Unauthorized copying, distribution, 
+modification, or use of this code is strictly prohibited.
+
+- ❌ **No forking** without permission
+- ❌ **No copying** of source code
+- ❌ **No commercial use**
+- ✅ **Personal use only** as an end-user
+
+**Legal action will be taken against violators.**
+
+[Contact for Licensing](https://www.instagram.com/mdfahadhossain006)
+****
+
+> ### 💌 "Every line of code carries a little emotion."
+
+<br>
+
+⭐ **If you enjoyed this project, consider starring the repository.**
+
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,50:7B2FF7,100:FC00FF&height=140&section=footer" width="100%" alt="Colorful animated footer"/>
 </p>
 
-<p align="center">
-  <b>Made with ❤️ by MD. FAHAD HOSSAIN</b>
-</p>
-
-<p align="center">
-  🇧🇩 Bangladesh &nbsp; • &nbsp; 🇰🇷 South Korea
-</p>
-
-<p align="center">
-  <i>F - NECESSARY KOREA — Your Essential Korean Websites in One App.</i>
-</p>
