@@ -5,6 +5,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00DBDE&center=true&vCenter=true&width=750&lines=Welcome+to+F+-+NECESSARY+KOREA!;Maps+%7C+Shopping+%7C+Language+Tools;Your+Daily+Digital+Companion+in+South+Korea;Created+by+MD.+FAHAD+HOSSAIN" alt="Animated project introduction"/>
+  <img src="https://i.postimg.cc/K80YSPFX/Black-and-White-Pixel-Art-Illustration-Game-Logo.png" width="180" alt="APP LOGO — Developer portrait" style="border-radius:50%;"/>  
 </p>
 
 <p align="center">
