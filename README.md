@@ -32,6 +32,13 @@ Whether you are an international student, a foreign resident, or a visitor in So
 🎯 **Our Mission:** Make essential Korean websites easier to discover and access through one convenient mobile application.
 
 ---
+## 🚀 DOWNLOAD F - NECESSARY KOREA
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1ZyoDwtF5XjAqsIT4jLbjB6uIhrp5-PKX?usp=sharing">
+    <img src="https://img.shields.io/badge/⬇_DOWNLOAD_APP-CLICK_HERE-00C853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download F - Necessary Korea"/>
+  </a>
+</p>
 
 ## 🎨 Project Showcase
 
